@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'First post on The Grid!'
-datePublished: '2016-04-15T02:59:18.687Z'
-dateModified: '2016-04-15T02:58:56.759Z'
+description: Time to play
+datePublished: '2016-04-15T03:06:06.693Z'
+dateModified: '2016-04-15T02:59:23.734Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-15-first-post-on-the-grid.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-first-post-on-the-grid.md
-published: true
 url: first-post-on-the-grid/index.html
 _type: Article
 
