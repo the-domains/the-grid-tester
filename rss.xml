@@ -4,21 +4,21 @@
         <description><![CDATA[Just Testing]]></description>
         <link>https://thegrid.ai/the-grid-tester/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 03:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 03:33:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-grid-tester/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Time to play</p>]]></description>
+            <link>https://thegrid.ai/the-grid-tester/first-post-on-the-grid/index.html</link>
+            <guid isPermaLink="false">2c33413d-0538-4734-86bc-6a150d578b04</guid>
+            <pubDate>Fri, 15 Apr 2016 03:33:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Good so far, time for a closer look</p>]]></description>
             <link>https://thegrid.ai/the-grid-tester/good-so-far-time-for-a-closer-look/index.html</link>
             <guid isPermaLink="false">635ea682-ff92-41d9-9d81-d234fd100af4</guid>
             <pubDate>Fri, 15 Apr 2016 03:31:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Time to play</p>]]></description>
-            <link>https://thegrid.ai/the-grid-tester/first-post-on-the-grid/index.html</link>
-            <guid isPermaLink="false">2c33413d-0538-4734-86bc-6a150d578b04</guid>
-            <pubDate>Fri, 15 Apr 2016 03:06:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
