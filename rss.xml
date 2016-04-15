@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Grid Tester]]></title>
-        <description><![CDATA[The Grid Tester]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Just Testing]]></title>
+        <description><![CDATA[Just Testing]]></description>
+        <link>https://thegrid.ai/the-grid-tester/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 02:59:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 03:06:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-grid-tester/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Time to play</p>]]></description>
-            <link>undefinedfirst-post-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/the-grid-tester/first-post-on-the-grid/index.html</link>
             <guid isPermaLink="false">2c33413d-0538-4734-86bc-6a150d578b04</guid>
-            <pubDate>Fri, 15 Apr 2016 02:59:18 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2016 03:06:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
